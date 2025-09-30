@@ -2,6 +2,10 @@
 
 Este projeto é uma **refatoração** do código original em Python, focada em melhorar a **organização**, **reduzir o acoplamento** e aumentar a **testabilidade** do sistema através do princípio da **Separação de Responsabilidades (SRP)**.
 
+## Participantes
+* Gabriel Morona Coelho
+* Lucas Sernajoto Vanzeler Paixão
+
 ---
 
 ## 🚀 Estrutura e Princípios de Design
